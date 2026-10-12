@@ -1,0 +1,16 @@
+SAN ANDREAS BUREAU
+PROJECT BLACKOUT — EQUIPMENT MAINTENANCE
+
+Archive Reference: EM-2057
+Record Date: 19 September 1992
+Classification: INTERNAL
+Status: Completed
+
+Storage Terminal 04 underwent routine maintenance after repeated indexing failures.
+
+The technician replaced a damaged storage component and restored access to several archived directories.
+
+A number of filenames could not be recovered. No evidence of physical damage to the archive room was reported.
+
+Filed by: Infrastructure Unit
+Department: Systems Maintenance
